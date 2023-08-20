@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Manuel</h1>
+<h3 align="center">A passionate Software developer from Italy 😉</h3>
 
-<!--
-**mdipaol/mdipaol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="center" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"> </h1>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently a student at **42 Firenze**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **everything related to software development and cybersecurity**
+
+- ⚡ Fun fact **I really like music and travel a lot**
+
+- <h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,git,linux,bash,cmake,vscode,vim,ps,premiere,ableton" />
+  </a>
+</p>
